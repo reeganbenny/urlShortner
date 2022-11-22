@@ -21,6 +21,8 @@
 .orginal-section{
     padding: 10px;
     margin-top: 10px;
+    word-wrap: break-word;
+    overflow: auto;
 }
 
 @media screen and (max-width:990px) {
